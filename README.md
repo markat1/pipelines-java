@@ -1,6 +1,6 @@
-[!![alt text](https://markat.visualstudio.com/pipelines-test-java-project/_apis/build/status/markat1.pipelines-java?branchName=master)
-
 # Contributing
+
+[![Build Status](https://markat.visualstudio.com/pipelines-test-java-project/_apis/build/status/markat1.pipelines-java?branchName=master)](https://markat.visualstudio.com/pipelines-test-java-project/_build/latest?definitionId=5&branchName=master)
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
