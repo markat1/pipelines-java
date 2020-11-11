@@ -1,4 +1,5 @@
-[[Build Status](https://markat.visualstudio.com/pipelines-test-java-project/_apis/build/status/markat1.pipelines-java?branchName=master)](https://markat.visualstudio.com/pipelines-test-java-project/_build/latest?definitionId=5&branchName=master) 
+[!![alt text](http://url/to/img.png)
+[Build Status](https://markat.visualstudio.com/pipelines-test-java-project/_apis/build/status/markat1.pipelines-java?branchName=master)](https://markat.visualstudio.com/pipelines-test-java-project/_build/latest?definitionId=5&branchName=master) 
 
 
 # Contributing
